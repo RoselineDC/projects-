@@ -17,12 +17,12 @@ body, ul, li, a {
     color: white;
 }
 .logo img {
-    width: 50px; /* Adjust size to make the logo smaller */
-    height: 50px; /* Ensure consistent size */
-    border-radius: 50%; /* Makes the image circular */
-    object-fit: cover; /* Ensures the image fits within the circle */
-    border: 2px solid white; /* Optional: adds a border for profile effect */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow effect */
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 2px solid white; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
 .logo a {
     font-size: 1.5rem;
@@ -46,24 +46,6 @@ body, ul, li, a {
     color: #00bcd4;
 }
 
-/* Responsive Design */
-@media screen and (max-width: 768px) {
-    .nav-links {
-        flex-direction: column;
-        align-items: flex-start;
-        background-color: #444;
-        padding: 1rem;
-        position: absolute;
-        top: 100%;
-        right: 0;
-        left: 0;
-        display: none; /* Hide menu initially */
-    }
-
-    .nav-links.show {
-        display: flex; /* Show menu when toggled */
-    }
-}
 
 /* Hamburger Menu (Optional) */
 .hamburger {
@@ -78,13 +60,60 @@ body, ul, li, a {
     width: 25px;
     margin: 3px 0;
 }
+/* main content */
+.welcome-section {
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+    flex: 2;
+}
+.welcome-section h1 {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+.welcome-section p {
+    font-size: 1.5rem;
+    color: #666;
+}
+.button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #00bcd4;
+    color: white;
+    border-radius: 10px;
+    border: 5px solid #00bcd4;
+    transition: background-color 0.3s ease;
+    font-size: 2rem;
+}
+.button:hover {
+    background-color: #926717;
+    border: 5px solid #926717;
+}
+/* Footer styling */
 
+/* Responsive Design */
 @media screen and (max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+        align-items: flex-start;
+        background-color: #444;
+        padding: 1rem;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        left: 0;
+        display: none; 
+    }
+
+    .nav-links.show {
+        display: flex; 
+    }
+
     .hamburger {
         display: flex;
     }
 
     .nav-links {
-        display: none; /* Initially hidden on small screens */
+        display: none; 
     }
 }
