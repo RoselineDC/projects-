@@ -1,0 +1,2089 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)https://www.bluelabeltelecoms.co.za/index.php -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blue Label Telecoms - Home , Blue Label Telecoms core business is the virtual distribution of secure electronic tokens of value (predominantly prepaid airtime at present) and transactional services across its global footprint of touch points.">
+<meta name="keywords" content="Blue Label Telecoms Home  Blue label telecoms, Blu approved, Blu, Distribution, Blue Label Distribution, POS terminals, Bulk printing, Bulk voucher, Voucher advertising, Prepaid airtime, airtime, Prepaid electricity, Electricity, Electronic vouchers, Mobile services, E- wallets, Mobile wallets, Location based services, WASP, Data cleansing, Airtime vending solutions, Electricity vending solutions, The prepaid company, TPC, Cigicell, ComExpress, Kwikpay, Starter packs, Vending machines, Kiosk touch screen, Airtime vending, Hybrid contracts, Prepaid products, Transactional services, Ticketing, Mobile couponing, coupons, NFC, Mobile vouchers, Rewards, Cloud computing,Unipin ">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">    <!-- Google Tag Manager -->
+<script async="" src="./background_files/gtm.js.download"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGNN3XP');</script>
+<!-- End Google Tag Manager LF 9 November 2021-->
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blue Label Telecoms - Home , Blue Label Telecoms core business is the virtual distribution of secure electronic tokens of value (predominantly prepaid airtime at present) and transactional services across its global footprint of touch points.">
+<meta name="keywords" content="Blue Label Telecoms Home  Blue label telecoms, Blu approved, Blu, Distribution, Blue Label Distribution, POS terminals, Bulk printing, Bulk voucher, Voucher advertising, Prepaid airtime, airtime, Prepaid electricity, Electricity, Electronic vouchers, Mobile services, E- wallets, Mobile wallets, Location based services, WASP, Data cleansing, Airtime vending solutions, Electricity vending solutions, The prepaid company, TPC, Cigicell, ComExpress, Kwikpay, Starter packs, Vending machines, Kiosk touch screen, Airtime vending, Hybrid contracts, Prepaid products, Transactional services, Ticketing, Mobile couponing, coupons, NFC, Mobile vouchers, Rewards, Cloud computing,Unipin ">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"><link rel="shortcut icon" href="https://www.bluelabeltelecoms.co.za/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.bluelabeltelecoms.co.za/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" type="image/png" href="https://www.bluelabeltelecoms.co.za/images/favicon.png">
+
+<title>Blue Label Telecoms| Home </title>
+<script src="./background_files/jquery-3.7.1.min.js.download"></script>
+<script src="./background_files/gsap.min.js.download"></script>
+<script src="./background_files/TextPlugin.min.js.download"></script>
+<script src="./background_files/ScrollTrigger.min.js.download"></script>
+<script src="./background_files/wow.min.js.download"></script>
+<script src="./background_files/lity.js.download"></script>
+
+<!-- Styles -->
+<link type="text/css" rel="stylesheet" href="./background_files/linear-full.css">
+<link type="text/css" rel="stylesheet" href="./background_files/production.css"> 
+<link type="text/css" rel="stylesheet" href="./background_files/font-awesome.css">
+<link href="./background_files/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="./background_files/bootstrap.min.css.map" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="./background_files/styles.css">
+<link type="text/css" rel="stylesheet" href="./background_files/frame.css">
+<link type="text/css" rel="stylesheet" href="./background_files/animate.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./background_files/lity.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./background_files/lity-popup.css">
+
+<link rel="stylesheet" type="text/css" media="screen" href="./background_files/partnerships.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./background_files/subsidiary.css">
+<!-- google FONT -->
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./background_files/css2" rel="stylesheet">
+
+    <style>
+       .lity-iframe-container {height: 104%!important;}
+
+        
+        .left-btn-icon-white {
+            color: #27AAE1;
+        }
+
+        .video-featured {
+            position: relative;
+        }
+
+        .bg-foot-home {
+            background-color: #07477F;
+        }
+
+        .bg-foot-home .d-flex {
+            gap: 20px;
+            justify-content: center;
+            place-items: center;
+        }
+
+        #particles-js {
+            position: relative;
+            width: 100%;
+            top: 0;
+            right: 0;
+            height: 100%;
+            z-index: 1;
+        }
+
+
+
+        @media screen and (max-width: 991px) {
+            .bg-foot-home .d-flex {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            /* #particles-js {
+                display: none;
+            }*/
+        }
+    </style>
+
+
+
+
+    <style>
+        .inner-covid {
+            text-align: center;
+            margin: 0 auto;
+            color: #fff;
+            max-width: 1280px;
+            padding: 8px 0;
+            font-weight: 500
+        }
+
+        .outer-covid {
+            width: 100%;
+            background: #132D6E;
+        }
+
+        a.covid-link {
+            color: #67C2EB
+        }
+
+        a.covid-link:hover {
+            color: yellow;
+        }
+
+
+        .home-banner {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            background: url(images/blt-banner.jpg) no-repeat;
+            min-height: 550px;
+            display: none;
+            background-size: cover;
+        }
+
+        .home-slide-next,
+        .home-slide-prev {
+            position: absolute;
+            font-weight: bold;
+            top: 30%;
+            transform: translateY(-50%);
+            color: #fff;
+            cursor: pointer;
+            z-index: 5;
+            font-size: 40px;
+            transition: 0.6s ease-in-out;
+        }
+
+        .home-slide-next {
+            right: 5%
+        }
+
+        .home-slide-prev {
+            left: 5%
+        }
+
+        .home-slide-next:hover {
+            right: 4%
+        }
+
+        .home-slide-prev:hover {
+            left: 4%
+        }
+
+        #home-banner-1 {
+            display: block
+        }
+
+        #home-banner-2 {
+            background: url(images/blt-banner.jpg) no-repeat;
+        }
+
+        #particles-js canvas {
+            position: absolute;
+            top: 0;
+            left: 0
+        }
+
+        .home-banner h2 {
+            padding-top: 100px;
+            padding-left: 0px;
+            color: #fff;
+            border-bottom: none !important;
+            margin-bottom: 0;
+        }
+
+        .home-banner .frame-content {
+            position: absolute;
+            top: 14%;
+            right: 10%;
+            color: #fff;
+            z-index: 2;
+            width: 30%;
+        }
+
+        .home-banner .frame-content p {
+            font-size: 20px;
+            color: #fff;
+        }
+
+        .slide-link-home {
+            display: block;
+            margin-bottom: 10px;
+            width: 50%;
+            font-weight: bold;
+            background: #fff;
+            color: #132D6E !important;
+            transition: 1s ease-in-out;
+            border: solid 0.5px #fff;
+            padding: 10px;
+            position: relative;
+            text-decoration: none !important;
+        }
+
+        .home-slide-radio {
+            position: absolute;
+            bottom: 2%;
+            z-index: 9;
+            width: 100%;
+            text-align: center;
+        }
+
+        .home-slide-radio span {
+            border-radius: 50%;
+            border: solid 1px #fff;
+            height: 10px;
+            width: 10px;
+            display: inline-block;
+            margin-right: 10px;
+            cursor: pointer;
+            transition: 0.6s ease-in-out
+        }
+
+        .active-radio {
+            background: #fff
+        }
+
+        .banner-logo img {
+            max-width: 100%
+        }
+
+        .banner-logo {
+            position: absolute;
+            top: 45%;
+            transform: translateY(-50%);
+            left: 23%;
+            width: 20%;
+        }
+
+        .nav-logo {
+            display: none;
+        }
+
+        nav.navbar .navbar-brand{
+            height: 49px;
+        }
+
+        .opaced-blue-bg{
+            position: relative;
+            -webkit-backdrop-filter: blur(10px);
+        }
+
+
+        @media screen and (max-width:1200px) {
+
+            .home-banner .frame-content {
+
+                top: 28%;
+                right: 10%;
+                color: #fff;
+                z-index: 2;
+                width: 30%;
+            }
+
+            .home-banner h2 {
+                padding-top: 30px !important;
+                padding-left: 0px;
+                color: #fff;
+                border-bottom: none !important;
+                margin-bottom: 0;
+                font-size: 20px;
+            }
+
+            .slide-link-home {
+                display: block;
+                margin-bottom: 10px;
+                width: 100%;
+                font-weight: bold;
+                background: #fff;
+                color: #132D6E !important;
+                transition: 1s ease-in-out;
+                border: solid 0.5px #fff;
+                padding: 5px;
+                position: relative;
+                text-decoration: none !important;
+            }
+        }
+
+
+        @media screen and (max-width:991px) {
+
+
+            .home-slide-next, .home-slide-prev {
+                display: none;
+            }
+            .slide-link-home {
+                width: 90%
+            }
+
+
+        }
+
+
+
+        @media screen and (max-width:582px) {
+
+            .banner-logo {
+                top: 15%;
+                transform: translate(-50%, 0%);
+                left: 50%;
+            }
+
+            .home-banner .frame-content {
+                right: 10%;
+                width: 80%;
+                text-align: center;
+            }
+
+            .slide-link-home {
+                margin: 0 auto 10px auto
+            }
+
+            .home-banner h2 {
+                text-align: center;
+            }
+        }
+
+        @keyframes heightNone {
+
+            from {
+                height: 5px
+            }
+
+            to {
+                height: 0.5px
+            }
+        }
+    </style>
+
+
+    <script src="./background_files/particles.js.download"></script>
+    <script src="./background_files/wow.min.js.download"></script>
+
+</head>
+
+<body id="one">
+    
+<style>
+.ticker-
+{
+float:right;
+color:#fff;
+font-size:12px;
+}
+.ticker span
+{
+font-size:10px;
+}
+</style>
+    <style>
+    li.nav-item .activemenu {
+        color: #1F4659;
+        /* background-color: #000; */
+    }
+
+    .scroll>.scroll-btn {
+        position: relative;
+        display: block;
+        background: #33acdf;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        text-align: center;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    .scroll>.scroll-btn span {
+        display: block;
+        position: relative;
+        font-size: 25px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #fff;
+    }
+
+    .left-ani {
+        -webkit-transform: translateX(130px);
+        transform: translateX(130px);
+        -webkit-transition: 1s;
+        transition: 1.25s;
+    }
+
+
+    .scroll {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 999;
+    }
+
+    .icon-arrow-up:before {
+        content: "\e941";
+    }
+
+    span.icon-arrow-up:before {
+        font-size: 20px;
+        font-family: 'icomoon';
+        position: relative;
+        transition: 0.6s ease-in-out;
+    }
+
+    @media screen and (max-width: 991px) {
+        .loader-span {
+            display: none;
+        }
+
+    }
+</style>
+<nav class="navbar navbar-expand-lg fixed-scroll">
+    <div class="container">
+
+        <a class="navbar-brand" href="https://www.bluelabeltelecoms.co.za/index.php"><img src="./background_files/logo.svg" alt="" class="nav-logo"></a>
+
+        <button onclick="resetDropdowns()" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <img src="./background_files/hamburger.svg" class="nav-img" alt="">
+        </button>
+
+
+
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+
+            <ul class="navbar-nav mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link  activemenu" aria-current="page" href="https://www.bluelabeltelecoms.co.za/index.php">Home</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link down-drop " rel="about-us" href="javascript:void(0)">About us</a>
+                    <div class="nav-drop-down" id="about-us">
+
+                        <ul class="links-list">
+                            <li><a href="https://www.bluelabeltelecoms.co.za/company-overview.php">Company overview</a></li>
+                            <li>
+                                <a href="https://www.bluelabeltelecoms.co.za/strategy.php">Strategy</a>
+                            </li>
+                            <li>
+                                <a href="https://www.bluelabeltelecoms.co.za/leadership.php">Leadership
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.bluelabeltelecoms.co.za/the-board.php">The Board
+                                </a>
+                            </li>
+
+
+                        </ul>
+
+                    </div>
+
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link down-drop " rel="our-business" href="javascript:void(0)">Our business</a>
+                    <div class="nav-drop-down" id="our-business">
+                        <ul class="links-list">
+                            <li><a href="https://www.bluelabeltelecoms.co.za/how-we-work.php">How we operate</a></li>
+                            <li>
+                                <a href="https://www.bluelabeltelecoms.co.za/index.php#" class="sub-drop">Blue Label South Africa</a>
+
+                                <div class="drop-of-drop">
+                                    <ul class="sub-links-list">
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/blue-label-distribution.php">Blue Label Distribution</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/the-prepaid-company.php">The Prepaid Company</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/comm-equiptment-company.php">Comm Equipment Company</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/glocell-retail-solutions.php">Glocell Retail Solutions</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/blue-label-connect.php">Blue Label Connect</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/cigicell-assuring-revenue-for-utilities.php">Cigicell —
+                                                assuring revenue
+                                                for utilities</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/reware.php">ReWare</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/ticketpro.php">Ticketpro</a></li>
+                                        <li><a href="https://www.bluelabeltelecoms.co.za/transaction-junction.php">Transaction Junction</a></li>
+                                        <!-- <li><a href="sterring.php">Sterring</a></li> -->
+                                    </ul>
+                                </div>
+
+                            </li>
+
+                            <li><a href="https://www.bluelabeltelecoms.co.za/blue-label-data-solutions.php">Blue Label Data Solutions</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/blue-label-media.php">Blue Label Media</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/products-and-solutions.php">Products and solutions</a></li>
+
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link down-drop " rel="governance" href="javascript:void(0)">Governance</a>
+                    <div class="nav-drop-down" id="governance">
+                        <ul class="links-list">
+                            <li><a href="https://www.bluelabeltelecoms.co.za/policies.php">Policies</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/bee-compliance.php">BEE compliance</a></li>
+                            <!-- <li><a href="visitors-policy.php">Visitors policy</a></li> -->
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link down-drop " rel="sustainability" href="javascript:void(0)">Sustainability</a>
+                    <div class="nav-drop-down" id="sustainability">
+                        <ul class="links-list">
+                            <li><a href="https://www.bluelabeltelecoms.co.za/social-practices.php">Social practices</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/human-capital.php">Human capital</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/safety-and-health.php">Safety &amp; health</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/environmental-practices.php">Environmental practices</a></li>
+                        </ul>
+
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link down-drop " rel="investors" href="javascript:void(0)">Investors </a>
+                    <div class="nav-drop-down" id="investors">
+                        <ul class="links-list">
+                            <li><a href="https://www.bluelabeltelecoms.co.za/sens.php">SENS</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/investor-calls.php">Investor calls</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/annual-results.php">Annual results</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/interim-results.php">Interim results</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/integrated-annual-reports.php">Integrated annual reports</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/investor-calendar.php">Investor calendar</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/listing-information.php">Listing information</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/notices-of-agm.php">Notices of AGM </a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/notices-to-shareholders.php">Notices to shareholders</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/circulars.php">Circulars</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/glossary.php">Glossary</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/results-updates.php">Results updates</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/investor-contacts.php">Investor contacts</a></li>
+                        </ul>
+
+                    </div>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link down-drop " rel="press-room" href="javascript:void(0)">Press room </a>
+                    <div class="nav-drop-down" id="press-room">
+                        <ul class="links-list">
+                            <li><a href="https://www.bluelabeltelecoms.co.za/media-releases.php">Media releases</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/request-for-proposal.php">Request for proposal</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/media.php">Media</a></li>
+                            <li><a href="https://www.bluelabeltelecoms.co.za/register-for-news-alerts.php">Register for news alerts</a></li>
+
+                        </ul>
+
+                    </div>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link down-drop "
+                        rel="trust-blu-foundation" href="sens.php">Trust Blu Foundation</a>
+                    <div class="nav-drop-down" id="trust-blu-foundation">
+
+
+                    </div>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link  " rel="career" href="https://www.bluelabeltelecoms.co.za/careers.php">Careers </a>
+                    
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link  " rel="sens" href="https://www.bluelabeltelecoms.co.za/contact-us.php">Contact us</a>
+
+                </li>
+
+                <a class="d-none d-lg-flex search-logo" type="submit" href="https://www.bluelabeltelecoms.co.za/search-results.php"><img src="./background_files/search.svg" class="nav-img" alt=""></a>
+
+            </ul>
+
+        </div>
+
+
+
+
+
+    </div>
+
+    <div class="loader-span"></div>
+</nav>
+
+<div class="scroll left-ani" style="transform: translateX(0px);">
+    <div class="scroll-btn">
+        <span class="icon-arrow-up"></span>
+    </div>
+</div>
+
+
+<script>
+    if (window.matchMedia("(min-width: 992px)").matches) {
+        // Code to execute when screen width is more than 991px
+        $(document).ready(function () {
+            $(window).on('scroll', function () {
+                var wintop = $(window).scrollTop(),
+                    docheight = $(document).height(),
+                    winheight = $(window).height();
+                var scrolltrigger = 0.95;
+
+                var percScrolled = parseInt((wintop / (docheight - winheight)) * 100);
+
+                $(".loader-span").css('width', percScrolled + "%");
+
+
+            });
+        })
+        // Add your logic here
+    } else {
+        // Code to execute when screen width is less than or equal to 991px
+        // console.log("Screen width is 991px or less");
+        // Add your logic here
+    }
+</script>
+
+
+    <input type="hidden" id="hid-inp" value="1">
+    <header role="banner">
+
+        <span class="home-slide-prev icon-chevron-left" onclick="prevClick()"></span>
+
+
+
+
+
+        <div id="particles-js" style="height: 500px;">
+        <div class="home-banner" id="home-banner-1" style="">
+                <div class="banner-logo">
+
+                    <img src="./background_files/blue-label-logo-home-page.png">
+
+                </div>
+
+                <div class="frame-content content-main">
+
+                    <h2>INTEGRATED REPORT 2024</h2>
+                    <p class="switch-blue"><strong>September 30, 2024</strong></p>
+
+                    <a class="slide-link-home" href="https://www.bluelabeltelecoms.co.za/online_reports/ar2024/index.php" target="_blank"><span></span>View online report</a>
+                        <!-- <a class="slide-link-home"
+                        href="integrated-annual-reports.php"
+                        target="_blank"><span></span>View  Integrated Report </a> -->
+
+                   
+                </div>
+
+            </div>
+
+        <div class="home-banner" id="home-banner-2" style="display: none;">
+
+              
+
+<div class="banner-logo">
+
+    <img src="./background_files/blue-label-logo-home-page.png">
+
+</div>
+<div class="frame-content content-main">
+
+    <h2>ANNUAL RESULTS 2024</h2>
+    <p class="switch-blue"><strong>29 August, 2024</strong></p>
+
+    <a class="slide-link-home" href="https://www.bluelabeltelecoms.co.za/online_results/annual-results-2024/index.php" target="_blank"><span></span>View online results</a>
+<a class="slide-link-home" href="https://www.bluelabeltelecoms.co.za/online_results/annual-results-2024/pdf/bluelabel-annual-results-presentation-aug-29-final.pdf" target="_blank"><span></span>Results presentation</a> 
+
+                    <!-- <a class="slide-link-home"
+                        href="https://78449.themediaframe.com/links/blt240829.html"
+                        target="_blank"><span></span>Register for the webcast</a> -->
+ 
+
+</div>
+
+</div>
+
+
+            <div class="home-banner" id="home-banner-3" style="display: none;">
+                <div class="banner-logo">
+
+                    <img src="./background_files/blue-label-logo-home-page.png">
+
+                </div>
+
+                <div class="frame-content content-main">
+
+                    <h2>INTERIM RESULTS 2024</h2>
+                    <p class="switch-blue"><strong>November 30, 2023</strong></p>
+
+                    <a class="slide-link-home" href="https://www.bluelabeltelecoms.co.za/online_results/interim-results-2024/index.php" target="_blank"><span></span>View results online</a>
+
+                    <a class="slide-link-home" href="https://www.bluelabeltelecoms.co.za/online_results/interim-results-2024/pdf/presentation.pdf" target="_blank"><span></span>Results presentation</a>
+
+                    <a class="slide-link-home" href="https://themediaframe.com/mediaframe/webcast.html?webcastid=uNiHcDNB" target="_blank"><span></span>View webcast</a>
+
+                </div>
+
+            </div>
+
+
+          
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="home-slide-radio">
+                <!-- <span onclick="radioClick(1)" class="radio-slide active-radio" id="radio-slide-1"></span>    
+    <span onclick="radioClick(2)" class="radio-slide" id="radio-slide-2"></span>
+    <span onclick="radioClick(3)" class="radio-slide" id="radio-slide-3"></span> -->
+            <span onclick="radioClick(1)" class="radio-slide active-radio" id="radio-slide-1"></span><span onclick="radioClick(2)" class="radio-slide" id="radio-slide-2"></span><span onclick="radioClick(3)" class="radio-slide" id="radio-slide-3"></span></div>
+        <canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="691" height="500"></canvas></div>
+
+
+
+        <span class="home-slide-next icon-chevron-right" onclick="nextClick()"></span>
+
+        <script>
+            $(document).ready(function () {
+                $("#hid-inp").val(1);
+                var slideLen = $(".home-banner").length;
+
+                for (i = 1; i <= slideLen; i++) {
+                    $(".home-slide-radio").append("<span onClick = 'radioClick(" + i + ")' class = 'radio-slide' id = 'radio-slide-" + i + "'></span>");
+                }
+
+                $("#radio-slide-1").addClass("active-radio");
+
+                // Call nextClick every 5 seconds (5000 milliseconds)
+                setInterval(nextClick, 5000);
+            });
+
+            function radioClick(i) {
+                $(".radio-slide").removeClass("active-radio");
+                $("#radio-slide-" + i).addClass("active-radio");
+                $(".home-banner").fadeOut();
+                setTimeout(function () {
+                    $("#home-banner-" + i).fadeIn();
+                }, 100);
+                $("#hid-inp").val(i);
+            }
+
+            function nextClick() {
+                var counter = parseInt($("#hid-inp").val());
+                var slideLen = $(".home-banner").length;
+
+                $("#home-banner-" + (counter)).fadeOut();
+
+                if (counter < slideLen) {
+                    counter += 1;
+                } else {
+                    counter = 1;
+                }
+                radioClick(counter);
+                setTimeout(function () {
+                    $("#home-banner-" + counter).fadeIn();
+                }, 100);
+
+                $("#hid-inp").val(counter);
+            }
+
+            function prevClick() {
+                var counter = parseInt($("#hid-inp").val());
+                var slideLen = $(".home-banner").length;
+
+                $("#home-banner-" + (counter)).fadeOut();
+
+                if (counter > 1) {
+                    counter -= 1;
+                } else {
+                    counter = slideLen;
+                }
+
+                radioClick(counter);
+                setTimeout(function () {
+                    $("#home-banner-" + counter).fadeIn();
+                }, 100);
+
+                $("#hid-inp").val(counter);
+            }
+        </script>
+
+
+
+
+
+
+    </header>
+
+
+
+
+    <div class="container">
+
+
+        <div class="row mt-5">
+            <div class="col-lg-12">
+                <h2 class=" mt-0 pb-0">ABOUT BLUE LABEL</h2>
+            </div>
+            <div class="col-lg-6">
+
+
+
+                <p>
+                    Blue Label is a digital distribution company, specialising in prepaid products and the electronic
+                    distribution of virtual merchandise and value-added services. Our diverse product and service
+                    offering enables us to bring mainstream products and services to the mass market. Listed on the JSE
+                    since 2007, we derive our strength from our extensive distribution network and building long-term
+                    partnerships. We strive for financial inclusion for the mass market. This is achieved by combining
+                    technical innovation with entrepreneurial flair. In this manner, we bring products and services
+                    associated with the developed world directly to the doorsteps of people who may be geographically
+                    and economically isolated from the mainstream. We create hundreds of thousands of direct and
+                    indirect jobs and entrepreneurial opportunities, support the growth of small businesses, and bridge
+                    the digital divide.
+                </p>
+                <div class="home-btn-block-link mt-5 mb-5">
+
+
+                    <a href="https://www.bluelabeltelecoms.co.za/company-overview.php" target="_blank">
+                        <button class="left left left-btn-icon left-btn-icon-white">About us
+                            <span class="bg"></span>
+                        </button>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="video-featured"> <a class="btn" href="https://www.bluelabeltelecoms.co.za/video/BLT_EVP_Main%20Video_Draft02_720.mp4" data-lity="">
+
+                        <!--/.play-button-->
+                        <img src="./background_files/BLT_EVP_Poster2.jpg" class="w-100">
+
+                    </a> </div>
+            </div>
+        </div>
+
+        <div class="row mt-5 mb-5">
+            <div class="col-lg-12">
+                <h2 class=" mt-0 pb-0">MEDIA</h2>
+            </div>
+            <div class="col-lg-6">
+
+                <video controls="controls" poster="https://vod.overendstudio.co.za/uploadimages/Capture_1720707616_thumbnail.PNG" preload="none" width="100%" height="100%" muted="" loop="">
+                    <!-- MP4 must be first for iPad! -->
+
+                    <source src="https://vod.overendstudio.co.za/video/Bursary Project_V5.mp4" type="video/mp4">
+                    <!-- Safari / iOS video    -->
+
+                    <source src="https://vod.overendstudio.co.za/video/Bursary Project_V5.webm" type="video/webm">
+                    <!-- fallback to Flash: -->
+                    <object width="100%" height="100%" type="application/x-shockwave-flash" data="./background_files/player.swf.download">
+                        <!-- Firefox uses the `data` attribute above, IE/Safari uses the param below -->
+                        <param name="movie" value="player.swf">
+                        <param name="allowfullscreen" value="true">
+                        <param name="wmode" value="transparent">
+                        <param name="allowScriptAccess" value="never">
+                        <param name="flashvars" value="controlbar=over&amp;autostart=true&amp;image=https://vod.overendstudio.co.za/uploadimages/Capture_1720707616_thumbnail.PNG&amp;file=/video/Bursary Project_V5.mp4">
+                        <!-- fallback image. note the title field below, put the title of the video there -->
+
+                    </object>
+                </video>
+
+            </div>
+            <div class="col-lg-6">
+
+                <p class="switch-lblue">
+                    <strong>Bursary Programme </strong>
+                </p>
+
+
+                <p>At Blue Label Telecoms, we believe in investing in the future through education and empowerment. Our
+                    latest video showcases our Bursary Programme, dedicated to supporting deserving and disadvantaged
+                    students as part of our Skills Development Initiatives.
+                    We're committed to making a positive impact by creating Learning &amp; Development opportunities for our
+                    employees and the youth in our communities. By providing access to quality education, we're helping
+                    to shape a brighter tomorrow for all.</p>
+
+                <p>Watch the video to learn how we're making a difference and celebrate these inspiring journeys with
+                    us! </p>
+
+                <div class="row gx-4">
+                    <div class="col-lg-6">
+
+                        <div class="home-btn-block-link mt-2 mb-5">
+                            <a href="https://open.spotify.com/show/5ckEI00LtgST9JHxvl3GKc" target="_blank">
+                                <button class="left left left-btn-icon left-btn-icon-white">Voices of Innovation
+                                    <span class="bg"></span>
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="home-btn-block-link mt-2 mb-5">
+                            <a href="https://www.bluelabeltelecoms.co.za/media.php">
+                                <button class="left left left-btn-icon left-btn-icon-white">View all media
+                                    <span class="bg"></span>
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+
+
+        <h2 class="mt-5">
+            Our Products and solutions
+        </h2>
+        <div class="row mb-3 gy-3">
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/the-prepaid-company.php">
+                        <div class="product-main-home">
+
+
+                            <div class="head-name-pro">
+                                <img src="./background_files/airtime.png" alt="">
+                                <p>AIRTIME</p>
+                            </div>
+
+                            <p class="pro">
+                                We’re South Africa’s top prepaid
+                                airtime provider, offering voucher
+                                or PIN-based and PIN-less topups
+                                in all denominations. Look
+                                for our Blu Approved brand for
+                                your airtime needs.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/pro-unipin.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/electricity-unpin.png" alt="">
+                                <p>Electricity —
+                                    UNIPIN</p>
+                            </div>
+
+                            <p class="pro">
+                                UniPIN, from Blue Label Telecoms Group, is a PIN-based prepaid electricity voucher
+                                available offline. Buy it from Spar, petrol garages, retailers, or Nedbank and ABSA
+                                ATMs. Activate via USSD, receive the token by SMS, and input it into your meter.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/ticketpro.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/tickets.png" alt="">
+                                <p>Tickets</p>
+                            </div>
+
+                            <p class="pro">
+                                The Ticketpro platform has evolved into one of the most innovative technology platforms
+                                in South Africa, providing promoters, event holders, venues and (most importantly) fans
+                                with a world-class experience in ticket purchasing.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/the-prepaid-company.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/airtime-chat-4-change.png" alt="">
+                                <p>Airtime —
+                                    CHAT 4&nbsp;change</p>
+                            </div>
+
+                            <p class="pro">
+                                We are South Africa’s largest supplier of prepaid airtime. We supply voucher or
+                                PIN-based airtime, and PIN-less or direct top-up airtime. Our airtime is available in
+                                all denominations. Look for our Blu Approved brand when buying your airtime or starter
+                                packs.
+
+
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+        </div>
+        <div class="row mb-3 gy-3">
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/pro-hardware-offerings.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/voucher.png" alt="">
+                                <p>Vouchers</p>
+                            </div>
+
+                            <p class="pro">
+                                Discover our hassle-free bulk printing solution for prepaid products. With quick setup
+                                and easy distribution, it’s perfect for wholesale needs. Our secure system ensures fast
+                                and efficient delivery of virtual prepaid voucher PINs to wholesalers nationwide.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/cigicell-assuring-revenue-for-utilities.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/starter-pack-icon.png" alt="">
+                                <p>Starter packs</p>
+                            </div>
+
+                            <p class="pro">
+                                We distribute prepaid SIM cards to formal and informal sectors in South Africa, enabling
+                                merchants to earn passive income. Our bundled services benefit both communities and
+                                merchants, fostering entrepreneurship and community upliftment.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/blue-label-connect.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/contract-icon.png" alt="">
+                                <p>Contracts</p>
+                            </div>
+
+                            <p class="pro">
+                                We provide retailers with a virtual mobile retail solution and offer corporate customers
+                                tailor-made packages for employees, facilitating payroll deductions or debit orders
+                                through strategic partnerships.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/the-prepaid-company.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/direct-top-up-icon.png" alt="">
+                                <p>Direct
+                                    TOP-UPS</p>
+                            </div>
+
+                            <p class="pro">
+                                As South Africa’s top prepaid airtime supplier, we offer voucher or PIN-based and
+                                PIN-less top-ups in all denominations. Look for our Blu Approved brand for your airtime
+                                needs.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+        </div>
+        <div class="row mb-5 gy-3">
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/blue-label-connect.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/money-transfer-icon.png" alt="">
+                                <p>Money
+                                    transfer</p>
+                            </div>
+
+                            <p class="pro">
+                                Blue Label Connect partners with retailers and corporate clients to provide post-paid
+                                airtime and value-added services, enhancing convenience through tailored packages and
+                                digital sales channels.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/cigicell-assuring-revenue-for-utilities.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/rica-logo.png" alt="">
+                                <p>Rica</p>
+                            </div>
+
+                            <p class="pro">
+                                The Prepaid Company distributes SIM cards, empowering merchants to earn passive income
+                                while complying with RICA regulations. Our products foster entrepreneurship and
+                                community upliftment.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/cigicell-assuring-revenue-for-utilities.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/water-icon.png" alt="">
+                                <p>Water</p>
+                            </div>
+
+                            <p class="pro">
+                                Cigicell, a level 1 BEE company since 1998, enhances revenue services for municipalities
+                                and utilities in water and electricity. Our technology facilitates online bill payments
+                                and manages over 190,000 active prepaid meters, ensuring financial sustainability and
+                                system integration.
+
+
+
+
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+            <!-- end of col-3 -->
+
+
+            <div class="col-xl-3 col-lg-6 col-md-6">
+                <div class="contain-product-info">
+                    <a href="https://www.bluelabeltelecoms.co.za/the-prepaid-company.php">
+                        <div class="product-main-home">
+                            <div class="head-name-pro">
+                                <img src="./background_files/mobile-accessories.png" alt="">
+                                <p>MOBILE DEVICE AND ACCESSORIES </p>
+                            </div>
+
+                            <p class="pro">
+                                Our extensive distribution network allows for us to supply all brands of Mobile
+                                Accessories and Mobile Devices. Procuring all products under this category through one
+                                company is the biggest benefits to our clients.
+                            </p>
+
+                            <div class="arrow-product">
+                                <div class="circle-product">
+                                    <span class="right-arrow"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+    <div class="blue-bg-across">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>INVESTOR RELATIONS</h2>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="opaced-blue-bg">
+                                <h4>LATEST REPORT</h4>
+                                <p class="mb-0">Integrated report 2024</p>
+                                <div class="content-start">
+                                    <img src="./background_files/Blue-label-telecoms-Integrated-report-2024.png" alt="Intergrated report 2024" class="mw-100">
+                                    <div class="btns-section webcast-lity-styles">
+                                        <a href="https://www.bluelabeltelecoms.co.za/online_reports/ar2024/index.php" target="_blank">
+                                            <p class="view-results-btn mb-3">View our Intergrated report</p>
+                                        </a>
+                                        <a href="https://www.bluelabeltelecoms.co.za/pdf/reports/2024/blt-iar-2024.pdf" target="_blank">
+                                            <p class="download-results-btn mb-3">
+                                                Download our Integrated report
+                                            </p>
+                                        </a>
+                                        <a href="https://www.bluelabeltelecoms.co.za/pdf/reports/2024/agm-2024.pdf" target="_blank">
+                                            <p class="download-results-btn mb-3">
+                                            Download Notice of Annual General Meeting 
+                                            </p>
+                                        </a>
+
+                                        <!-- <a href="https://vod.overendstudio.co.za/cgi-bin/iframe.pl?vod=1725453048"
+                                            target="_blank" data-lity>
+                                            <p class="webcast-results-btn mb-3 ">
+                                               Annual Results Webcast Presentation
+                                            </p>
+                                        </a> -->
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<style>
+.lity-iframe-container {height: 104%!important;}
+
+</style> 
+
+                        <div class="col-lg-4">
+                            <div class="opaced-blue-bg">
+                                <h4>SENS RELEASES</h4>
+                                <br>
+                                <div class="content-start">
+
+                                    
+    
+ <p class="switch-lblue">
+                                        <strong>14 November 2024</strong>
+                                    </p>
+                                    <p>
+                                        <a href="https://www.overend.co.za/download/gramercy-cat-2-announcement.pdf" target="_blank">Acquisition of Shares and Debt Claim against Cell C from Gramercy
+                                            </a>
+                                    </p>
+                                    <div class="solid-white-line"></div>
+
+	 <p class="switch-lblue">
+                                        <strong>16 October 2024</strong>
+                                    </p>
+                                    <p>
+                                        <a href="https://www.overend.co.za/download/notification-in-terms-of-section-122-peresec-prime-brokers-pty-ltd-final.pdf" target="_blank">Notification In Terms Of Section 122(3) Of The Companies Act And Section 3.83(B) Of The JSE Listings Requirements
+                                            </a>
+                                    </p>
+                                    <div class="solid-white-line"></div>
+
+	
+                                   
+
+                                   
+
+                                    <div class="opaced-btn-section">
+                                        <a href="https://www.bluelabeltelecoms.co.za/sens.php">
+                                            <button class="left left left-btn-icon">View all SENS releases
+                                                <span class="bg"></span>
+                                            </button>
+                                        </a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--<div class="col-lg-3">
+                            <div class="opaced-blue-bg">
+                                <h4>MEDIA </h4>
+                                <br />
+                                <div class="content-start">
+
+                                <video controls="controls" poster="images/west-park-cemetery.jpg" preload="none" width="100%" height="100%">
+                               
+
+                                <source src="https://vod.overendstudio.co.za/video/West_Park_06_May_2024.mp4" type="video/mp4">
+
+                                    <source src="https://vod.overendstudio.co.za/video/West_Park_06_May_2024.webm" type="video/webm">
+                                    
+                                <object width="100%" height="100%" type="application/x-shockwave-flash" data="player.swf">
+                                    
+                                    <param name="movie" value="player.swf">
+                                    <param name="allowfullscreen" value="true">
+                                            <param name="wmode" value="transparent">
+                                    <param name="allowScriptAccess" value="never">
+                                    <param name="flashvars" value="controlbar=over&amp;image=https://vod.overendstudio.co.za/uploadimages/&amp;file=/video/West_Park_06_May_2024.mp4">
+                                 
+
+                                </object>
+                            </video>
+                                
+                                    <p class="switch-lblue">
+                                        <strong>Bursary Programme </strong>
+                                    </p>
+
+                                    <div class="btns-section">
+                                        <a href="https://lnkd.in/eRDn_RV4" target="_blank">
+                                            <p class="view-results-btn mb-3">Voices of Innovation</p>
+                                        </a>
+                                        
+                                    </div>
+
+
+                                    <div class="opaced-btn-section">
+                                        <a href="media-videos.php">
+                                            <button class="left left left-btn-icon">View all media
+                                                <span class="bg"></span>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>-->
+
+
+
+
+                        <div class="col-lg-4">
+                            <div class="opaced-blue-bg">
+                                <h4>INVESTOR RELATIONS CONTACT</h4>
+                                <div class="content-start">
+                                    <p>&nbsp;</p>
+                                    <!--<p class="switch-lblue">
+                                        <strong>Head of Investor and Media Relations</strong>
+                                    </p>-->
+
+                                    <p class="investor-phone mb-2">+27 11 523-3101</p>
+                                    <p class="investor-mail">
+                                        <a href="mailto:investors@blts.co.za">investors@blts.co.za</a>
+                                    </p>
+
+                                    <div class="opaced-btn-section">
+                                        <a href="https://www.bluelabeltelecoms.co.za/investor-contacts.php" class="">
+                                            <button class="left left-btn-icon">
+                                                Contact us
+                                                <span class="bg"></span>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- close row with lg-3 -->
+                </div>
+                <!-- close col-lg-12 -->
+            </div>
+            <!-- close row with lg-12 -->
+        </div>
+        <!-- close container-->
+    </div>
+    <!-- close bg blue-->
+
+
+    <div class="container">
+
+
+        <div class="row mt-5">
+            <div class="col-lg-12">
+
+            </div>
+            <div class="col-lg-7">
+                <figure><img src="./background_files/trust-blu-foundation.png" class="ml-0"></figure>
+                <h2 class="mt-0 pb-0">TRUST BLU FOUNDATION</h2>
+                <p>Trust Blu Foundation is a non-profit organisation that aims to reduce unemployment and inequality of
+                    opportunity in South Africa by enabling informal, micro and small enterprises to grow. We leverage
+                    Blue Label's technology, expertise and reach to help non-profit organisations and social enterprises
+                    to amplify their impact and facilitate economic inclusion. </p>
+                <div class="home-btn-block-link my-5">
+
+
+                    <a href="https://trustblufoundation.co.za/" target="_blank">
+                        <button class="left left left-btn-icon left-btn-icon-white">To read more click here
+                            <span class="bg"></span>
+                        </button>
+                    </a>
+
+
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <img src="./background_files/hero-image.jpg" alt="" class="mw-100">
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+    <div class="bg-foot-home py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="d-flex">
+                        <p class="mb-0 switch-white"><strong>Sign up for alerts</strong> stay connected with our email
+                            alert service
+                        </p> <a href="https://www.bluelabeltelecoms.co.za/register-for-news-alerts.php" target="_blank">
+                            <button class="left left left-btn-icon left-btn-icon-white">Subscribe here
+                                <span class="bg"></span>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="./background_files/particles.js.download"></script>
+    <script src="./background_files/app.js.download"></script>
+
+    <script>
+        new WOW().init();
+    </script>
+    
+
+<footer>
+    <div class="top-foot-bg">
+        <div class="container">
+            <div class="set-apart">
+                <a href="https://www.bluelabeltelecoms.co.za/terms-and-conditions.php" class="controls prev icon-chevron-left"><i>Terms and conditions</i></a>
+                <a href="https://www.bluelabeltelecoms.co.za/company-overview.php" class="controls next icon-chevron-right"><i>Company overview</i></a>
+            </div>
+        </div>
+
+    </div>
+	
+    <div class="footer bottom-foot-bg switch-white">
+
+        <div class="container">
+            <div class="row custom-breaks">
+                <div class="col-lg-3">
+					<p class="text-center">
+						<a href="https://www.bluelabeltelecoms.co.za/index.php"><img src="./background_files/logo.svg" class="mw-100 mb-4" alt="Logo footer"></a>
+					</p>
+					<h6 class="switch-white"><strong>Blue Label is a mobile technology company specialising in prepaid products and the electronic distribution of virtual merchandise and value-added services.</strong></h6>
+                </div>
+				<div class="col-lg-3">
+					<div class="">
+						<h4 class="switch-white mb-4">Quick links</h4>
+						<a href="https://www.bluelabeltelecoms.co.za/company-overview.php" class="button-circle-arrow pt-0">About us
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://www.bluelabeltelecoms.co.za/how-we-work.php" class="button-circle-arrow">Our business
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://www.bluelabeltelecoms.co.za/products-and-solutions.php" class="button-circle-arrow">Products and solutions
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://www.bluelabeltelecoms.co.za/social-practices.php" class="button-circle-arrow">Sustainability
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://trustblufoundation.co.za/" class="button-circle-arrow" target="_blank">Trust Blu Foundation
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://www.bluelabeltelecoms.co.za/sens.php" class="button-circle-arrow">Investors
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://www.bluelabeltelecoms.co.za/media-releases.php" class="button-circle-arrow">Press room
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+						<a href="https://www.bluelabeltelecoms.co.za/careers.php" class="button-circle-arrow">Careers
+							<i class="icon-arrow-right-circle"></i>
+						</a>
+					</div>
+				</div>		
+				<div class="col-lg-3">
+					<div class="switch-white">
+						<h4 class="switch-white mb-4">Contact us</h4>
+						<div class="switch-white contact-us-details">
+							<img src="./background_files/footer-phone.svg" class="contact-us-icons mw-100">+27 11 523-3000
+						</div>
+						<div class="switch-white contact-us-details">
+							<img src="./background_files/footer-email.svg" class="contact-us-icons mw-100">
+							<a href="mailto:info@bluelabeltelecoms.co.za" class="switch-white">info@bluelabeltelecoms.co.za</a>
+						</div>
+						<div class="switch-white contact-us-details">
+							<img src="./background_files/footer-pin.svg" class="contact-us-icons mw-100">
+							<p class=" mb-0 switch-white">
+								<span class="switch-white mb-0 font-weight-600">Head Office</span><br>
+								75 Grayston Drive (Corner
+								of Grayston Drive &amp;
+								Benmore Drive)<br>
+								Morningside Extensions 05,<br>
+								Sandton, Johannesburg,<br>
+								South Africa
+							</p>
+						</div>
+						
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="">
+						<h4 class="mb-4 switch-white ">Our latest annual report</h4>
+						<div class="content-start mb-5">
+							<img src="./background_files/Blue-label-telecoms-Integrated-report-2024.png" alt="" class="mw-100">
+							<div class="btns-section">
+							<a href="https://www.bluelabeltelecoms.co.za/online_reports/ar2024/index.php" target="_blank"><p class="view-results-btn  switch-white mb-3">View our Intergrated report</p></a>
+								<a href="https://www.bluelabeltelecoms.co.za/pdf/reports/2024/blt-iar-2024.pdf" target="_blank"><p class="download-results-btn switch-white mb-3">Download report</p></a>
+								
+							</div>
+						</div>
+					</div>
+								 
+					<div class="row g-0">
+						<div class="col-2">
+							<a href="https://www.instagram.com/bluelabeltelecoms/" target="_blank"><img src="./background_files/social-media-instagram.svg" alt="" class="mw-100"></a>
+						</div>		
+						<div class="col-2">
+							<a href="https://www.facebook.com/BlueLabelTelecoms" target="_blank"><img src="./background_files/social-media-facebook.svg" alt="" class="mw-100"></a>
+						</div>		
+						<div class="col-2">
+							<a href="https://www.youtube.com/channel/UC0iTTT4bc36QqRRS0o2QhJA" target="_blank"><img src="./background_files/social-media-youtube.svg" alt="" class="mw-100"></a>
+						</div>		
+						<div class="col-2">
+							<a href="https://www.linkedin.com/company/blue-label-telecoms/?originalSubdomain=za" target="_blank"><img src="./background_files/social-media-linkedin.svg" alt="" class="mw-100"></a>
+						</div>		
+						<div class="col-2">
+							<a href="https://x.com/i/flow/login?redirect_after_login=%2FBlueLabelTeleco" target="_blank"><img src="./background_files/social-media-twitter.svg" alt="" class="mw-100"></a>
+						</div>		
+					</div>		
+					
+				</div>
+            </div>
+        </div>
+		
+<style>
+	.social-media-icons img {margin-right: 12px;}
+</style>
+		
+		
+    </div>
+	
+	
+	<div class="sub-footer">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/sitemap.php">SITEMAP</a>
+					</div>
+				</div>
+				<div class="col-lg col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/disclaimer.php">DISCLAIMER</a>
+					</div>
+				</div>
+				<div class="col-lg col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/privacy-policy.php">PRIVACY POLICY</a>
+					</div>
+				</div>
+				<div class="col-lg col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/terms-of-use.php">TERMS OF USE</a>
+					</div>
+				</div>
+				<div class="col-lg col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/paia.php">PAIA</a>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/email-disclaimer.php">EMAIL DISCLAIMER</a>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/terms-and-conditions.php">TERMS AND CONDITIONS</a>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4">
+					<div class="">
+						<a href="https://www.bluelabeltelecoms.co.za/sitemap.php">© 2024 BLUE LABEL TELECOMS</a>
+					</div>
+				</div>
+			</div>	
+		</div>	
+	</div>	
+	
+	
+	
+</footer>    <script src="./background_files/bootsrap.min.js.download"></script>
+<script src="./background_files/scroll-simple.js.download"></script>
+
+<script>
+    $(document).ready(function () {
+        $(window).on('scroll', function () {
+            if ($(this).scrollTop() >= 200) {
+                $('.navbar').addClass('fixed-scroll');
+                popTop();
+            } else if ($(this).scrollTop() == 0) {
+                $('.navbar').removeClass('fixed-scroll');
+            }
+        });
+    })
+
+
+    function popTop() {
+
+        $(window).on('scroll', function () {
+            if ($(this).scrollTop() >= 200) {
+                $('.left-ani').css({
+                    "transform": "translateX(0)"
+                });
+
+            } else {
+                $('.left-ani').css({
+                    "transform": "translateX(130px)"
+                });
+            }
+        })
+    }
+
+    function gotop() {
+        $('.scroll-btn').click(function () {
+            $("body,html").animate({
+                scrollTop: 0
+            }, 600);
+        });
+    }
+
+
+    $(document).ready(function () {
+        gotop();
+    });
+</script>
+
+
+<script>
+    const links = document.querySelectorAll('.down-drop');
+
+    const linkContents = document.querySelectorAll('.nav-drop-down')
+    var currActive = '';
+    var mediaQuery = window.matchMedia('(max-width: 991px)');
+
+
+    // Check if the media query matches
+    if (mediaQuery.matches) {
+        // Mobile 
+
+        links.forEach((link, index) => {
+            //remove the hrefs
+            link.href = 'javascript:void(0)';
+            link.addEventListener('click', () => {
+                if (currActive != link.rel) {
+                    let allDrops = document.querySelectorAll('.nav-drop-down')
+
+                    allDrops.forEach(drop => {
+                        drop.classList.remove('active');
+                    });
+                    let dropdown = document.getElementById(link.rel);
+                    linkContents.forEach(content => {
+                        content.classList.remove('active');
+                    });
+                    dropdown.classList.add('active');
+                    currActive = link.rel;
+                    dropdown.addEventListener('mouseleave', () => {
+                        dropdown.classList.remove('active');
+                        currActive = '';
+                    })
+
+                    dropdown.querySelectorAll('.sub-drop').forEach(subDrop => {
+                        subDrop.addEventListener('click', (event) => {
+                            event.preventDefault(); // Prevent the default link click behavior
+                            let subDropdownMenu = subDrop.nextElementSibling;
+                            subDrop.classList.toggle('active');
+                            subDropdownMenu.classList.toggle('active'); // Toggle the active class
+                        });
+                    });
+
+
+                } else {
+                    linkContents.forEach(content => {
+                        content.classList.remove('active');
+                    });
+                    currActive = '';
+                }
+
+            })
+        });
+    } else {
+        // Desktop
+        links.forEach((link) => {
+            link.addEventListener('mouseover', () => {
+                if (currActive != link.rel) {
+                    let allDrops = document.querySelectorAll('.nav-drop-down')
+
+                    allDrops.forEach(drop => {
+                        drop.classList.remove('active');
+                    });
+
+                    let dropdown = document.getElementById(link.rel);
+                    linkContents.forEach(content => {
+                        content.classList.remove('active');
+                    });
+                    dropdown.classList.add('active');
+                    currActive = link.rel;
+
+                    dropdown.querySelectorAll('.sub-drop').forEach(subDrop => {
+                        subDrop.addEventListener('click', (event) => {
+                            event.preventDefault(); // Prevent the default link click behavior
+                            let subDropdownMenu = subDrop.nextElementSibling;
+                            subDrop.classList.toggle('active');
+                            subDropdownMenu.classList.add('active'); // Toggle the active class
+                        });
+                    });
+
+                    dropdown.addEventListener('mouseleave', () => {
+                        dropdown.classList.remove('active');
+                        currActive = '';
+                        dropdown.querySelectorAll('.sub-drop').forEach(subDrop => {
+                            let subDropdownMenu = subDrop.nextElementSibling;
+                            subDropdownMenu.classList.remove('active'); // Toggle the active class
+                            subDrop.classList.remove('active');
+                        });
+                    });
+
+                } else {
+                    linkContents.forEach(content => {
+                        content.classList.remove('active');
+                    });
+                    currActive = '';
+                }
+            });
+        });
+    }
+
+    mediaQuery.addListener(function (mediaQueryList) {
+        if (mediaQueryList.matches) {
+            // Mobile 
+            links.forEach((link, index) => {
+                link.addEventListener('click', () => {
+                    if (currActive != link.rel) {
+                        let dropdown = document.getElementById(link.rel);
+                        linkContents.forEach(content => {
+                            content.classList.remove('active');
+                        });
+                        dropdown.classList.add('active');
+                        currActive = link.rel;
+                        dropdown.addEventListener('mouseleave', () => {
+                            dropdown.classList.remove('active');
+                            currActive = '';
+                        })
+
+                    } else {
+                        linkContents.forEach(content => {
+                            content.classList.remove('active');
+                        });
+                        currActive = '';
+                    }
+
+                })
+            });
+        } else {
+            // Desktop
+            links.forEach((link, index) => {
+                link.addEventListener('mouseover', () => {
+                    if (currActive != link.rel) {
+                        let dropdown = document.getElementById(link.rel);
+                        linkContents.forEach(content => {
+                            content.classList.remove('active');
+                        });
+                        dropdown.classList.add('active');
+                        currActive = link.rel;
+                        dropdown.addEventListener('mouseleave', () => {
+                            dropdown.classList.remove('active');
+                            currActive = '';
+                        })
+
+                    } else {
+                        linkContents.forEach(content => {
+                            content.classList.remove('active');
+                        });
+                        currActive = '';
+                    }
+                })
+            });
+        }
+    });
+
+    function resetDropdowns() {
+        linkContents.forEach(content => {
+            content.classList.remove('active');
+        });
+    }
+</script>
+
+<script>
+
+
+//--><![CDATA[//><!--
+// $(function() {
+//     $(".accordion h4.expand").toggler({initShow: "div.collapse:eq(0)"});
+//     $(".accordion").expandAll({
+//       trigger: "h4.expand",
+//       ref: "h4.expand",
+//     });
+// });
+//--><!]]>
+
+
+
+noteNumVal = "";
+function targetNote() {
+   if (noteNumVal != "" && noteNumVal != "1") {
+      if (document.getElementById('tabhead') != null) {
+         document.getElementById('tabhead1').click();
+         document.getElementById('tabhead').click();
+         $('html, body').animate({scrollTop:$('#tabhead').offset().top-35}, 'slow');
+      }
+   }
+}
+
+function delayTargetMove(openNotesTabID) {
+	location.hash = eval('"'+openNotesTabID+'"');
+}
+function openNotesTab(openTab) {
+	openNotesTabID = "tabhead"+openTab;
+	if (document.getElementById(openNotesTabID) != null) {
+		if (document.getElementById(openNotesTabID).childNodes[0].className != "open") {
+		   document.getElementById(openNotesTabID).click();
+		}
+		eval('setTimeout(delayTargetMove("'+openNotesTabID+'"),1000)');
+	}
+}
+</script>
+
+
+<script>
+jQuery( document ).ready( function( $ ) {
+
+	var $menu = $('#menu'),
+	  $menulink = $('.menu-link'),
+	  $menuTrigger = $('.has-submenu > a');
+
+	$menulink.click(function(e) {
+		e.preventDefault();
+		$menulink.toggleClass('active');
+		$menu.toggleClass('active');
+	});
+
+	$menuTrigger.click(function(e) {
+		e.preventDefault();
+		var $this = $(this);
+		$this.toggleClass('active').next('ul').toggleClass('active');
+	});
+
+});
+</script>
+<script>
+$('.tab-drawer-content').hide();
+$('.tab-drawer-content:first').show();
+$('ul.tabs li').click(function () {
+   $('.tab-drawer-content').hide();
+   var activeTab = $(this).attr('rel');
+   $('#' + activeTab).fadeIn();
+   $('ul.tabs li').removeClass('active');
+   $(this).addClass('active');
+   $('.tab-drawer-heading').removeClass('d-active');
+   $('.tab-drawer-heading[rel^=\'' + activeTab + '\']').addClass('d-active');
+});
+
+lastTabClicked = "";
+$('.tab-drawer-heading').click(function () {
+   $('.tab-drawer-content').hide();
+   d_activeTab = $(this).attr('rel');
+   if (d_activeTab != lastTabClicked) {
+      $('#' + d_activeTab).fadeIn();
+      $('.tab-drawer-heading').removeClass('d-active');
+      $(this).addClass('d-active');
+      $('ul.tabs li').removeClass('active');
+      $('ul.tabs li[rel^=\'' + d_activeTab + '\']').addClass('active');
+      lastTabClicked = d_activeTab;
+   } else {
+      $('#' + d_activeTab).fadeOut();
+      $(this).removeClass('d-active');
+      lastTabClicked = "";
+   }
+});
+$('ul.tabs li').last().addClass('tab-last');
+</script>
+<script src="./background_files/scroll-simple(1).js.download"></script>
+
+	<!--dropdown code-->
+		<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+<!--end dropdown code-->
+<!--number counter-->
+<script>
+$('.count').each(function () {
+    $(this).prop('Counter',0).animate({
+        Counter: $(this).text()
+    }, {
+        duration: 4000,
+        easing: 'swing',
+        step: function (now) {
+            $(this).text(Math.ceil(now));
+        }
+    });
+});
+<!--end number counter-->
+
+</script>
+<!--carousel script-->
+<script type="text/javascript">
+    	$(document).ready(function(){
+			$('.customer-logos').slick({
+				slidesToShow: 5,
+				slidesToScroll: 1,
+				autoplay: true,
+				autoplaySpeed: 1500,
+				arrows: false,
+				dots: false,
+				pauseOnHover: false,
+				responsive: [{
+					breakpoint: 768,
+					settings: {
+						slidesToShow: 5
+					}
+				}, {
+					breakpoint: 520,
+					settings: {
+						slidesToShow: 4
+					}
+				}]
+			});
+		});
+    </script>
+
+
+</body></html>
