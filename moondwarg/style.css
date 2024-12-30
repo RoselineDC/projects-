@@ -1307,8 +1307,19 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  text-transform: uppercase;
  letter-spacing: 1px;
  color: #d3d8e0;
- padding-bottom: 20px;
- 
+ padding-bottom: 20px; 
+}
+#grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-gap: 5px;
+}
+#grid > div {
+  font-size: 30px;
+  padding: .5em;
+  color: #ffffff;
+  background: #1c87c9;
+  text-align: center;
 }
 
 .our-team {
