@@ -1311,15 +1311,20 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   grid-gap: 5px;
 }
 #grid > div {
   font-size: 30px;
   padding: .5em;
   color: #ffffff;
-  background: #1c87c9;
+  /* background: #1c87c9; */
   text-align: center;
+  
+}
+.img-cont img{
+  width: 100px;
+  height: 70px;
 }
 
 .our-team {
