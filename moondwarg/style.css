@@ -851,77 +851,52 @@ span {
   width: 100%;
   /* margin: 30px; */
 }
-.left-section .spread {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-gap: 5px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  justify-content: space-between;
-  width: 100%;
-  color: rgb(2, 32, 39);
-  animation: colorChange 5s infinite;
-}
-.left-section .spread {
-  font-size: 30px;
-  padding: .5em;
-  color: #ffffff;
-  /* background: #1c87c9; */
-  text-align: center;
-}
+  .left-section .spread {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    width: 100%;
+    color: rgb(2, 32, 39);
+    animation: colorChange 5s infinite;
+  }
   
-/* }
-.img-cont img{
-  width: 100px;
-  height: 70px;
-}
-
-.left-section .spread {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  justify-content: space-between;
-  width: 100%;
-  color: rgb(2, 32, 39);
-  animation: colorChange 5s infinite;
-} */
-
-/* Flickering effect */
-/* @keyframes flicker {
-    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
-        opacity: 1;
+  /* Flickering effect */
+  /* @keyframes flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+          opacity: 1;
+      }
+      20%, 24%, 55% {
+          opacity: 0.5;
+      }
+  } */
+  
+  /* Color changing effect */
+  @keyframes colorChange {
+    0%,
+    100% {
+      color: red;
     }
-    20%, 24%, 55% {
-        opacity: 0.5;
+  
+    25% {
+      color: rgb(23, 163, 156);
     }
-} */
-
-/* Color changing effect */
-@keyframes colorChange {
-  0%,
-  100% {
-    color: red;
+  
+    50% {
+      color: rgb(13, 230, 230);
+    }
+  
+    75% {
+      color: rgb(255, 81, 0);
+    }
   }
-
-  25% {
-    color: rgb(23, 163, 156);
+  
+  span {
+    content: "\2192";
+    margin: 0px 4px;
+    color: #09b7ce;
+    /* font-size: 40px;/ */
   }
-
-  50% {
-    color: rgb(13, 230, 230);
-  }
-
-  75% {
-    color: rgb(255, 81, 0);
-  }
-}
-
-span {
-  content: "\2192";
-  margin: 0px 4px;
-  color: #09b7ce;
-  /* font-size: 40px;/ */
-}
-
+  
 .right-section {
   display: flex;
   flex-wrap: wrap;
@@ -934,10 +909,27 @@ span {
   /* Default: 3 columns */
   margin: 10px;
   padding: 20px;
+  min-width: 330px;
+  max-width: 330px;
+  box-sizing: border-box;
+}
+
+/* .right-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.right-section .text-block {
+  flex: 1 1 calc(33.33% - 20px);
+  /* Default: 3 columns *
+  margin: 10px;
+  padding: 20px;
   min-width: 300px;
   max-width: 400px;
   box-sizing: border-box;
-}
+} */
 
 /* services */
 .container2 {
@@ -1036,11 +1028,11 @@ li {
   object-fit: fill;
 }
 
-.say-more {
+/* .say-more {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  /* gap: 10px; */
+  /* gap: 10px; *
 }
 
 .say {
@@ -1049,6 +1041,38 @@ li {
   max-width: 400px;
   box-sizing: border-box;
   margin: 20px;
+  border: solid 2px transparent;
+  border-radius: 20px;
+  background: linear-gradient(
+    to right,
+    #8aa5c0,
+    #8aa5c0,
+    #bac0df,
+    #8aa5c0,
+    #8aa5c0
+  );
+
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+} */
+.say-more{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.say-more .say {
+  flex: 1 1 calc(33.33% - 20px);
+  /* Default: 3 columns */
+  margin: 10px;
+  padding: 20px;
+  min-width: 330px;
+  max-width: 330px;
+  box-sizing: border-box;
   border: solid 2px transparent;
   border-radius: 20px;
   background: linear-gradient(
@@ -1639,10 +1663,10 @@ option {
 
 /* mdia screen bigeer than tablet smaller than laptop */
 @media (min-width: 768px) and (max-width: 1024px) {
-  /* .right-section .text-block {
+  .right-section .text-block {
     flex: 1 1 calc(50% - 20px);
     /* 2 columns */
-  } */
+  }
 
   .serve {
     display: flex;
@@ -1666,10 +1690,10 @@ option {
 
 /* Medium screens: 2 columns (tablets) */
 @media (max-width: 768px) {
-  /* .right-section .text-block {
+  .right-section .text-block {
     flex: 1 1 calc(50% - 20px);
     /* 2 columns */
-  } */
+  }
 
   .serve {
     display: flex;
@@ -1729,10 +1753,10 @@ option {
 
 /* Small screens: 1 column (phones) */
 @media (max-width: 480px) {
-  /* .right-section .text-block {
+   .right-section .text-block {
     flex: 1 1 100%;
     /* Full width */
-  } */
+  }
 
   .serve {
     display: flex;
