@@ -851,6 +851,30 @@ span {
   width: 100%;
   /* margin: 30px; */
 }
+.left-section .spread {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  width: 100%;
+  color: rgb(2, 32, 39);
+  animation: colorChange 5s infinite;
+}
+.left-section .spread {
+  font-size: 30px;
+  padding: .5em;
+  color: #ffffff;
+  /* background: #1c87c9; */
+  text-align: center;
+}
+  
+/* }
+.img-cont img{
+  width: 100px;
+  height: 70px;
+}
 
 .left-section .spread {
   margin-top: 20px;
@@ -859,7 +883,7 @@ span {
   width: 100%;
   color: rgb(2, 32, 39);
   animation: colorChange 5s infinite;
-}
+} */
 
 /* Flickering effect */
 /* @keyframes flicker {
@@ -1615,10 +1639,10 @@ option {
 
 /* mdia screen bigeer than tablet smaller than laptop */
 @media (min-width: 768px) and (max-width: 1024px) {
-  .right-section .text-block {
+  /* .right-section .text-block {
     flex: 1 1 calc(50% - 20px);
     /* 2 columns */
-  }
+  } */
 
   .serve {
     display: flex;
@@ -1642,10 +1666,10 @@ option {
 
 /* Medium screens: 2 columns (tablets) */
 @media (max-width: 768px) {
-  .right-section .text-block {
+  /* .right-section .text-block {
     flex: 1 1 calc(50% - 20px);
     /* 2 columns */
-  }
+  } */
 
   .serve {
     display: flex;
@@ -1705,10 +1729,10 @@ option {
 
 /* Small screens: 1 column (phones) */
 @media (max-width: 480px) {
-  .right-section .text-block {
+  /* .right-section .text-block {
     flex: 1 1 100%;
     /* Full width */
-  }
+  } */
 
   .serve {
     display: flex;
