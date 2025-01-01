@@ -108,7 +108,7 @@ function createTestimonialElement(testimonial, index) {
     div.innerHTML = `      
       <img src="./imgs/${index}.png" alt="${testimonial.name}">
    <h3>${testimonial.name}</h3>
-   <p>${testimonial.text}</p>
+    <p style="font-size: 12px;">${testimonial.text}</p>
     `;
     return div;
 }
