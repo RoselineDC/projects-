@@ -1873,6 +1873,9 @@ section {
   /* body {
     background-color: red;
   } */
+  .text-header{
+    font-size: 35px;
+  }
 
   .left-section .spread {
     margin-bottom: 20px;
