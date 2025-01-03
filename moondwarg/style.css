@@ -130,7 +130,7 @@ label i {
     flex-direction: column;
   }
   .text-header{
-    font-size: 15px;
+    font-size: 25px;
   }
 }
 
@@ -1777,9 +1777,9 @@ section {
     opacity: 1;
     z-index: 1;
   }
-  .text-header{
+  /* .text-header{
     font-size: 20px;
-  }
+  } */
 }
 
 /* our work */
@@ -2062,9 +2062,9 @@ section {
     font-size: 24px;
     max-width: 90%;
   }
-  .text-header{
+  /* .text-header{
     font-size: 15px;
-  }
+  } */
 
   .right-section {
     display: flex;
@@ -2287,9 +2287,9 @@ section {
     .heading {
       font-size: 16px;
     }
-    .text-header{
+    /* .text-header{
       font-size: 16px;
-    }
+    } */
   
     .serve {
       display: flex;
@@ -2609,9 +2609,7 @@ section {
       font-size: 20px;
       text-align: center;
     }
-    .text-header{
-      font-size: 15px;
-    }
+    
   }
   
 
