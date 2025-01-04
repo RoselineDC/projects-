@@ -379,46 +379,46 @@ label i {
 
 .Live-stream {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
   position: relative;
   border-bottom: 1px solid rgb(230, 230, 230);
 }
 
 .Hire {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
   border-bottom: 1px solid rgb(230, 230, 230);
 }
 
 .Events {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
 
   border-bottom: 1px solid rgb(230, 230, 230);
 }
 
 .Production {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
   border-bottom: 1px solid rgb(230, 230, 230);
 }
 
 .Installation {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
   overflow-y: hidden;
   border-bottom: 1px solid rgb(230, 230, 230);
 }
 
 .Hist {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
   position: relative;
 }
 
 .contact-us {
   width: 100%;
-  min-height: 100%;
+  /* min-height: 100%; */
   display: grid;
   place-items: center;
   background-color: rgb(255, 255, 255);
@@ -435,8 +435,8 @@ label i {
 
 .blocks {
   display: flex;
-  width: 100%;
-  min-height: 100%;
+  /* width: 100%; */
+  /* min-height: 100%; */
   position: relative;
 }
 
