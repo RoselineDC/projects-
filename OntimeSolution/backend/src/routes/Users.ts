@@ -1,6 +1,6 @@
 
 import express, {Request, Response} from 'express';
-import User from '../models/user';
+import User from '../models/User';
 import jwt from 'jsonwebtoken';
 
 const router = express.Router();
@@ -20,7 +20,7 @@ router.post("./register", async (req: Request, res: Response) => {
         // create token
         const token = jwt.sign(
             { userId: user.id },
-            process.env.JWT_SECRET_KAY as string,
+            process.env.JWT_SECRET_KEY as string,
             {
                 expiresIn: "1d",
             }
@@ -32,7 +32,7 @@ router.post("./register", async (req: Request, res: Response) => {
             secure: process.env.NODE_ENV === "production", //true for production false for development
             maxAge: 86400000,
         })
-        res.status(200).json();
+        return res.sendStatus(200);
 
     } catch (error) {
         console.log(error);
@@ -40,3 +40,5 @@ router.post("./register", async (req: Request, res: Response) => {
         
     }
 })
+
+export default router;
