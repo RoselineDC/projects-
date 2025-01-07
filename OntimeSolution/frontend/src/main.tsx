@@ -1,10 +1,46 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.tsx'
+// import { StrictMode } from 'react'
+// import ReactDOM from 'react-dom/client'
+// import './index.css'
+// import App from './App.tsx'
+// import { QueryClient, QueryClientProvider } from 'react-query';
 
-createRoot(document.getElementById('root')!).render(
+// //query client
+// const queryClient = new QueryClient({
+//   defaultOptions: {
+//     queries: {
+//       retry: 0
+//     },
+//   },
+// });
+
+// ReactDOM.createRoot(document.getElementById('root')!).render(
+//   <StrictMode>
+//     <QueryClientProvider client={queryClient}>      
+//       <App />
+//     </QueryClientProvider>
+//     <App />
+//   </StrictMode>
+// )
+import { StrictMode } from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App.tsx';
+import { QueryClient, QueryClientProvider } from 'react-query';
+
+// Initialize QueryClient
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      retry: 0,
+    },
+  },
+});
+
+ReactDOM.createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
-  </StrictMode>,
-)
+    <QueryClientProvider client={queryClient}>
+      <App />
+    </QueryClientProvider>
+  </StrictMode>
+);
+
