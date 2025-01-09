@@ -8,6 +8,8 @@ export const register = async (formData: RegisterFormData) => {
     // fetch 
     const response = await fetch(`${API_BASE_URL}/api/users/register`, {
         method: "POST",
+        // check if user is signed in
+        credentials: "include",
         headers: {
             // body in json format
             "Content-Type": "application/json"
@@ -25,4 +27,18 @@ export const register = async (formData: RegisterFormData) => {
         throw new Error(responseBody.message);
     }
 
+};
+
+// handle user login    THROGHAPI-CLIENT ENDPOINT
+export const validateToken = async () => {
+    const response = await fetch(`${API_BASE_URL}/api/auth/validate-token`, {
+        // method: "GET",
+        credentials: "include",
+    })
+    // check response
+    if(!response.ok){
+        throw new Error("Invalid token");
+    }
+    // get response body
+    return response.json();
 };

@@ -26,6 +26,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App.tsx';
 import { QueryClient, QueryClientProvider } from 'react-query';
+import { AppContextProvider } from './contexts/AppContext.tsx';
 
 // Initialize QueryClient
 const queryClient = new QueryClient({
@@ -39,7 +40,10 @@ const queryClient = new QueryClient({
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <QueryClientProvider client={queryClient}>
-      <App />
+      {/* adding appContext */}
+      <AppContextProvider>
+        <App />
+        </AppContextProvider>
     </QueryClientProvider>
   </StrictMode>
 );
