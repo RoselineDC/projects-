@@ -25,7 +25,7 @@ const Register = () => {
         // on success register
         onSuccess: () => {
             showToast({
-                message: "Account created successfully",
+                message: "Registration Successful",
                 type: "SUCCESS"
             });
             // navigate to login page

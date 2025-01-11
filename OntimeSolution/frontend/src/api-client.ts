@@ -32,12 +32,13 @@ export const register = async (formData: RegisterFormData) => {
 // handle user login    THROGHAPI-CLIENT ENDPOINT
 export const validateToken = async () => {
     const response = await fetch(`${API_BASE_URL}/api/auth/validate-token`, {
+        
         // method: "GET",
         credentials: "include",
     })
     // check response
     if(!response.ok){
-        throw new Error("Invalid token");
+        throw new Error("Token invalid");
     }
     // get response body
     return response.json();

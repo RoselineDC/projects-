@@ -1,4 +1,3 @@
-import exp from "constants";
 import { NextFunction, Request, Response } from "express-serve-static-core";
 import jwt, { JwtPayload } from "jsonwebtoken";
 
@@ -13,8 +12,10 @@ declare global {
 // verify token
 const verifyToken = (req: Request, res: Response, next: NextFunction) => {
     //  ACCESS TOKEN THRUE KEY
-    const token = req.cookies["auth_token;"]
+    const token = req.cookies["auth_token"]
     // check if token exist
+    // console.log( token);
+
     if(!token){
         return res.status(401).json({message: "Unauthorized"});
     }

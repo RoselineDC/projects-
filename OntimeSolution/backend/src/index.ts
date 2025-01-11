@@ -4,14 +4,13 @@ import cors from 'cors';
 import mongoose from 'mongoose';
 import userRoutes from './routes/Users';
 import authRoutes from './routes/auth';
-import cookieParser = require('cookie-parser');
+import cookieParser from 'cookie-parser';
 
 
 // connect to mongodb
 mongoose.connect(process.env.MONGODB_CONNECTION_STRING as string);
 
-
-
+// create express app	
 const app = express();
 app.use(cookieParser());
 app.use(express.json());

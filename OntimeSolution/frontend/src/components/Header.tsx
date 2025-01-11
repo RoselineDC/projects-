@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useAppContext } from "../contexts/AppContext";
 
 const Header = () => {
-  const { isLogged } = useAppContext();
+  const { isLoggedIn } = useAppContext();
   return (
     <div className="bg-blue-800 py-6">
       <div className="container mx-auto flex justify-between">
@@ -11,7 +11,7 @@ const Header = () => {
           <Link to="/">Ontime Solutions</Link>
         </span>
         <span className="flex space-x-2">
-          {isLogged ? (
+          {isLoggedIn ? (
             <>
               <Link to="my-dashbord">My Dashboard</Link>
               <button>Sign Out</button>

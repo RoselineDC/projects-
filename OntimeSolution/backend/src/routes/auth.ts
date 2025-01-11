@@ -51,6 +51,7 @@ router.post("/login", [
             secure: process.env.NODE_ENV === "production", //true for production false for development
             maxAge: 86400000,
         })
+       
         res.status(200).json({ userId: user.id });
 
     } catch (error) {
@@ -60,7 +61,7 @@ router.post("/login", [
     }
 
 });
-
+// validate token and send status ok
 router.get("/validate-token", verifyToken, (req: Request, res: Response)=> {
     res.status(200).send({ userId: req.userId });
 })
