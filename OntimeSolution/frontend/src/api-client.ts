@@ -1,4 +1,5 @@
 import { RegisterFormData } from "./pages/register";
+import { SignInFormData } from "./pages/SignIn";
 
 
 const API_BASE_URL =import.meta.env.VITE_API_BASE_URL as string;
@@ -29,6 +30,18 @@ export const register = async (formData: RegisterFormData) => {
 
 };
 
+
+// handle user login    THROGHAPI-CLIENT ENDPOINT
+ export const signIn = async ( formData: SignInFormData) => {
+    const response = await fetch(`${API_BASE_URL}/api/auth/login`, {
+        method: "POST",
+        credentials: "include",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(formData)
+ });
+}
 // handle user login    THROGHAPI-CLIENT ENDPOINT
 export const validateToken = async () => {
     const response = await fetch(`${API_BASE_URL}/api/auth/validate-token`, {
